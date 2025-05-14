@@ -1,1 +1,1 @@
-# LAGU
+import sys import time def run_lyric (): lyrics = [ ("Sudah terbiasa terjadi tante...", 0.1), ("Teman datang ketika lagi butuh saja...", 0.1), ("Coba kalau lagi susah...", 0.11), ("Mereka semua menghilanggggggggggg.......", 0.11), ("Apakah spek standar seperti ini yang para pemirsa inginkan...", 0.08), ("Tanteeeeeeeeeeeee...", 0.08), ] delay = [0.3, 0.3, 0.4, 0.3, 0.5, 0.3, 0.4] print("\n--Tante Culik Aku Dong--") time.sleep(1)
